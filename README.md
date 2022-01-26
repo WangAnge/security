@@ -277,10 +277,3 @@
 
 -[Urule](https://github.com/youseries/urule/):一款纯Java规则引擎，可快速实现规则的定义、维护与发布。
 
-------
-
-###学习交流
-
-专注于网络安全，欢迎关注个人微信公众号：Bypass--，每周原创一篇技术干货。
-
-![](https://bypass007.github.io/Emergency-Response-Notes/Summary/image/sum-erweima.jpg)
